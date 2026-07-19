@@ -1,0 +1,6 @@
+.exe
+.vscode
+.env
+.log
+.cache
+.venv
