@@ -27,3 +27,8 @@ l1[1].append(1200)
 print(l1) # they are not same
 print(l3)
 
+"""deepcopy if see a refrence , it goes to that refrence copy the contents and comeback
+so it doesnt matter how you juggle the contents by refrence nesting , untill it is not 
+correct deepcopy would settle it down"""
+
+
